@@ -5,7 +5,7 @@ If we can accurately predict for all the people infected with COVID 19 whether t
 ### Sample Data Analysis
 ![alttext](https://github.com/JaswanthBadvelu/predicting_mortality_rate/blob/master/Images/Death%20Status.png)
 
-For detailed steps more info can be found in my articles related to COVID-19 
+Detailed analysis and more information related to COVID-19 can be found in my medium articles
 1) [Which Gender and Age Group People are at Risk due to COVID-19?](https://medium.com/analytics-vidhya/how-does-covid-19-affect-different-age-groups-and-genders-8347155a189)
 2) [Is easing lockdown in the US a good idea?](https://medium.com/analytics-vidhya/impact-on-the-us-stock-market-with-the-increase-in-covid-19-cases-441107dc3ea2)
 3) [Predicting Death Rate using Classification Models](https://medium.com/analytics-vidhya/covid-19-predicting-death-rate-using-classification-9a095eba9e57)
