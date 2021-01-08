@@ -3,7 +3,7 @@ The total number of deaths due to COVID 19 crossed 100K mark on 26th May in the 
 
 If we can accurately predict for all the people infected with COVID 19 whether the patient is going to die or not. Then the patient can be given more priority and can be monitored continuously to prevent the patient from dying.
 ### Sample Data Analysis
-![alttext](https://github.com/JaswanthBadvelu/predicting_mortality_rate)
+![alttext](https://github.com/JaswanthBadvelu/predicting_mortality_rate/blob/master/Images/Death%20Status.png)
 
 For detailed steps more info can be found in my articles related to COVID-19 
 1) [Which Gender and Age Group People are at Risk due to COVID-19?](https://medium.com/analytics-vidhya/how-does-covid-19-affect-different-age-groups-and-genders-8347155a189)
